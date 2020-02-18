@@ -7,7 +7,7 @@
 
 3 Copier le dossier `ServletWebAppv1` sur votre ordinateur
 
-4 Dans ce dossier ouvrez une concole et entrer la commande suivante : `mvn install`
+4 Dans ce dossier ouvrez une invite de commande et entrer la commande suivante : `mvn install`
 
 5 Dans le dossier `ServletWebAppv1` un sous dossier `target` a ete créer avec dedans un fichier ServletWebAppv1-1.0-SNAPSHOT.war
 
